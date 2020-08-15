@@ -1,0 +1,158 @@
+[30-Aug-2019 08:55:44 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'sigma_sigma'@'localhost' to database 'sigmadb' in /home/sigma/public_html/admin/Db.php on line 9
+[30-Aug-2019 08:55:44 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'sigma_sigma'@'localhost' to database 'sigmadb' in /home/sigma/public_html/admin/Db.php on line 9
+[30-Aug-2019 08:55:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/Project.php on line 83
+[30-Aug-2019 08:55:44 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/admin/Project.php on line 84
+[30-Aug-2019 08:55:44 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'sigma_sigma'@'localhost' to database 'sigmadb' in /home/sigma/public_html/admin/Db.php on line 9
+[30-Aug-2019 08:55:44 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'sigma_sigma'@'localhost' to database 'sigmadb' in /home/sigma/public_html/admin/Db.php on line 9
+[30-Aug-2019 08:55:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/Company.php on line 68
+[30-Aug-2019 08:55:44 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/admin/Company.php on line 69
+[30-Aug-2019 08:55:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/User.php on line 249
+[30-Aug-2019 08:55:44 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/admin/User.php on line 250
+[30-Aug-2019 08:55:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/Product.php on line 35
+[30-Aug-2019 08:55:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/Product.php on line 41
+[30-Aug-2019 08:55:44 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/admin/Product.php on line 42
+[30-Aug-2019 08:55:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/index.php on line 298
+[30-Aug-2019 08:55:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/Company.php on line 63
+[30-Aug-2019 08:55:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/index.php on line 390
+[30-Aug-2019 08:55:44 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'sigma_sigma'@'localhost' to database 'sigmadb' in /home/sigma/public_html/admin/Db.php on line 9
+[30-Aug-2019 08:55:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/Testimonial.php on line 31
+[30-Aug-2019 08:55:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/index.php on line 438
+[30-Aug-2019 08:55:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/index.php on line 439
+[30-Aug-2019 08:56:03 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'sigma_sigma'@'localhost' to database 'sigmadb' in /home/sigma/public_html/admin/Db.php on line 9
+[30-Aug-2019 08:56:03 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'sigma_sigma'@'localhost' to database 'sigmadb' in /home/sigma/public_html/admin/Db.php on line 9
+[30-Aug-2019 08:56:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/Project.php on line 83
+[30-Aug-2019 08:56:03 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/admin/Project.php on line 84
+[30-Aug-2019 08:56:03 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'sigma_sigma'@'localhost' to database 'sigmadb' in /home/sigma/public_html/admin/Db.php on line 9
+[30-Aug-2019 08:56:03 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'sigma_sigma'@'localhost' to database 'sigmadb' in /home/sigma/public_html/admin/Db.php on line 9
+[30-Aug-2019 08:56:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/Company.php on line 68
+[30-Aug-2019 08:56:03 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/admin/Company.php on line 69
+[30-Aug-2019 08:56:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/User.php on line 249
+[30-Aug-2019 08:56:03 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/admin/User.php on line 250
+[30-Aug-2019 08:56:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/Product.php on line 35
+[30-Aug-2019 08:56:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/Product.php on line 41
+[30-Aug-2019 08:56:03 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/admin/Product.php on line 42
+[30-Aug-2019 08:56:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/index.php on line 298
+[30-Aug-2019 08:56:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/Company.php on line 63
+[30-Aug-2019 08:56:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/index.php on line 390
+[30-Aug-2019 08:56:03 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'sigma_sigma'@'localhost' to database 'sigmadb' in /home/sigma/public_html/admin/Db.php on line 9
+[30-Aug-2019 08:56:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/Testimonial.php on line 31
+[30-Aug-2019 08:56:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/index.php on line 438
+[30-Aug-2019 08:56:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/index.php on line 439
+[30-Aug-2019 08:57:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'sigma_sigma'@'localhost' to database 'sigmadb' in /home/sigma/public_html/admin/Db.php on line 9
+[30-Aug-2019 08:57:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'sigma_sigma'@'localhost' to database 'sigmadb' in /home/sigma/public_html/admin/Db.php on line 9
+[30-Aug-2019 08:57:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/Project.php on line 83
+[30-Aug-2019 08:57:43 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/admin/Project.php on line 84
+[30-Aug-2019 08:57:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'sigma_sigma'@'localhost' to database 'sigmadb' in /home/sigma/public_html/admin/Db.php on line 9
+[30-Aug-2019 08:57:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'sigma_sigma'@'localhost' to database 'sigmadb' in /home/sigma/public_html/admin/Db.php on line 9
+[30-Aug-2019 08:57:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/Company.php on line 68
+[30-Aug-2019 08:57:43 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/admin/Company.php on line 69
+[30-Aug-2019 08:57:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/User.php on line 249
+[30-Aug-2019 08:57:43 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/admin/User.php on line 250
+[30-Aug-2019 08:57:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/Product.php on line 35
+[30-Aug-2019 08:57:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/Product.php on line 41
+[30-Aug-2019 08:57:43 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/admin/Product.php on line 42
+[30-Aug-2019 08:57:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/index.php on line 298
+[30-Aug-2019 08:57:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/Company.php on line 63
+[30-Aug-2019 08:57:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/index.php on line 390
+[30-Aug-2019 08:57:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'sigma_sigma'@'localhost' to database 'sigmadb' in /home/sigma/public_html/admin/Db.php on line 9
+[30-Aug-2019 08:57:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/Testimonial.php on line 31
+[30-Aug-2019 08:57:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/index.php on line 438
+[30-Aug-2019 08:57:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/index.php on line 439
+[30-Aug-2019 08:57:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'sigma_sigma'@'localhost' to database 'sigmadb' in /home/sigma/public_html/admin/Db.php on line 9
+[30-Aug-2019 08:57:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/Project.php on line 67
+[30-Aug-2019 08:57:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/Project.php on line 83
+[30-Aug-2019 08:57:56 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/admin/Project.php on line 84
+[30-Aug-2019 08:57:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'sigma_sigma'@'localhost' to database 'sigmadb' in /home/sigma/public_html/admin/Db.php on line 9
+[30-Aug-2019 08:57:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'sigma_sigma'@'localhost' to database 'sigmadb' in /home/sigma/public_html/admin/Db.php on line 9
+[30-Aug-2019 08:57:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/projects.php on line 87
+[30-Aug-2019 08:57:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'sigma_sigma'@'localhost' to database 'sigmadb' in /home/sigma/public_html/admin/Db.php on line 9
+[30-Aug-2019 08:57:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/Product.php on line 35
+[30-Aug-2019 08:57:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/Product.php on line 41
+[30-Aug-2019 08:57:59 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/admin/Product.php on line 42
+[30-Aug-2019 08:57:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/products.php on line 99
+[30-Aug-2019 08:58:11 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'sigma_sigma'@'localhost' to database 'sigmadb' in /home/sigma/public_html/admin/Db.php on line 9
+[30-Aug-2019 08:58:11 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'sigma_sigma'@'localhost' to database 'sigmadb' in /home/sigma/public_html/admin/Db.php on line 9
+[30-Aug-2019 08:58:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/Project.php on line 83
+[30-Aug-2019 08:58:11 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/admin/Project.php on line 84
+[30-Aug-2019 08:58:11 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'sigma_sigma'@'localhost' to database 'sigmadb' in /home/sigma/public_html/admin/Db.php on line 9
+[30-Aug-2019 08:58:11 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'sigma_sigma'@'localhost' to database 'sigmadb' in /home/sigma/public_html/admin/Db.php on line 9
+[30-Aug-2019 08:58:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/Company.php on line 68
+[30-Aug-2019 08:58:11 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/admin/Company.php on line 69
+[30-Aug-2019 08:58:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/User.php on line 249
+[30-Aug-2019 08:58:11 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/admin/User.php on line 250
+[30-Aug-2019 08:58:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/Product.php on line 35
+[30-Aug-2019 08:58:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/Product.php on line 41
+[30-Aug-2019 08:58:11 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/admin/Product.php on line 42
+[30-Aug-2019 08:58:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/index.php on line 298
+[30-Aug-2019 08:58:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/Company.php on line 63
+[30-Aug-2019 08:58:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/index.php on line 390
+[30-Aug-2019 08:58:11 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'sigma_sigma'@'localhost' to database 'sigmadb' in /home/sigma/public_html/admin/Db.php on line 9
+[30-Aug-2019 08:58:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/Testimonial.php on line 31
+[30-Aug-2019 08:58:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/index.php on line 438
+[30-Aug-2019 08:58:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/index.php on line 439
+[30-Aug-2019 09:00:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'sigma_sigma'@'localhost' to database 'sigmadb' in /home/sigma/public_html/admin/Db.php on line 9
+[30-Aug-2019 09:00:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'sigma_sigma'@'localhost' to database 'sigmadb' in /home/sigma/public_html/admin/Db.php on line 9
+[30-Aug-2019 09:00:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/Project.php on line 83
+[30-Aug-2019 09:00:54 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/admin/Project.php on line 84
+[30-Aug-2019 09:00:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'sigma_sigma'@'localhost' to database 'sigmadb' in /home/sigma/public_html/admin/Db.php on line 9
+[30-Aug-2019 09:00:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'sigma_sigma'@'localhost' to database 'sigmadb' in /home/sigma/public_html/admin/Db.php on line 9
+[30-Aug-2019 09:00:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/Company.php on line 68
+[30-Aug-2019 09:00:54 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/admin/Company.php on line 69
+[30-Aug-2019 09:00:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/User.php on line 249
+[30-Aug-2019 09:00:54 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/admin/User.php on line 250
+[30-Aug-2019 09:00:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/Product.php on line 35
+[30-Aug-2019 09:00:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/Product.php on line 41
+[30-Aug-2019 09:00:54 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/admin/Product.php on line 42
+[30-Aug-2019 09:00:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/index.php on line 298
+[30-Aug-2019 09:00:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/Company.php on line 63
+[30-Aug-2019 09:00:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/index.php on line 390
+[30-Aug-2019 09:00:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'sigma_sigma'@'localhost' to database 'sigmadb' in /home/sigma/public_html/admin/Db.php on line 9
+[30-Aug-2019 09:00:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/Testimonial.php on line 31
+[30-Aug-2019 09:00:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/index.php on line 438
+[30-Aug-2019 09:00:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/index.php on line 439
+[05-Nov-2019 23:19:40 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/sigma/public_html/admin/Db.php on line 9
+[05-Nov-2019 23:19:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/Branch.php on line 70
+[05-Nov-2019 23:19:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/contact.php on line 74
+[06-Nov-2019 07:08:47 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/sigma/public_html/admin/Db.php on line 9
+[06-Nov-2019 07:08:47 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/sigma/public_html/admin/Db.php on line 9
+[06-Nov-2019 07:08:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/Project.php on line 83
+[06-Nov-2019 07:08:47 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/admin/Project.php on line 84
+[06-Nov-2019 07:08:47 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/sigma/public_html/admin/Db.php on line 9
+[06-Nov-2019 07:08:47 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/sigma/public_html/admin/Db.php on line 9
+[06-Nov-2019 07:08:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/Company.php on line 68
+[06-Nov-2019 07:08:47 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/admin/Company.php on line 69
+[06-Nov-2019 07:08:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/User.php on line 249
+[06-Nov-2019 07:08:47 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/admin/User.php on line 250
+[06-Nov-2019 07:08:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/Product.php on line 35
+[06-Nov-2019 07:08:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/Product.php on line 41
+[06-Nov-2019 07:08:47 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/admin/Product.php on line 42
+[06-Nov-2019 07:08:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/index.php on line 306
+[06-Nov-2019 07:08:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/Company.php on line 63
+[06-Nov-2019 07:08:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/index.php on line 398
+[06-Nov-2019 07:08:47 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/sigma/public_html/admin/Db.php on line 9
+[06-Nov-2019 07:08:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/Testimonial.php on line 30
+[06-Nov-2019 07:08:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/index.php on line 446
+[06-Nov-2019 07:08:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/index.php on line 447
+[06-Nov-2019 07:08:48 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/sigma/public_html/admin/Db.php on line 9
+[06-Nov-2019 07:08:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/Branch.php on line 70
+[06-Nov-2019 07:08:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/contact.php on line 74
+[06-Nov-2019 07:08:48 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/sigma/public_html/admin/Db.php on line 9
+[06-Nov-2019 07:08:48 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/sigma/public_html/admin/Db.php on line 9
+[06-Nov-2019 07:08:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/Project.php on line 83
+[06-Nov-2019 07:08:48 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/admin/Project.php on line 84
+[06-Nov-2019 07:08:48 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/sigma/public_html/admin/Db.php on line 9
+[06-Nov-2019 07:08:48 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/sigma/public_html/admin/Db.php on line 9
+[06-Nov-2019 07:08:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/Company.php on line 68
+[06-Nov-2019 07:08:48 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/admin/Company.php on line 69
+[06-Nov-2019 07:08:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/User.php on line 249
+[06-Nov-2019 07:08:48 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/admin/User.php on line 250
+[06-Nov-2019 07:08:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/Product.php on line 35
+[06-Nov-2019 07:08:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/Product.php on line 41
+[06-Nov-2019 07:08:48 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/admin/Product.php on line 42
+[06-Nov-2019 07:08:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/index.php on line 306
+[06-Nov-2019 07:08:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/Company.php on line 63
+[06-Nov-2019 07:08:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/index.php on line 398
+[06-Nov-2019 07:08:48 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/sigma/public_html/admin/Db.php on line 9
+[06-Nov-2019 07:08:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sigma/public_html/admin/Testimonial.php on line 30
+[06-Nov-2019 07:08:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/index.php on line 446
+[06-Nov-2019 07:08:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sigma/public_html/index.php on line 447
